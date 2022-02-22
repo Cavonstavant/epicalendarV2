@@ -4,7 +4,6 @@
   "description": "Synchronize Epitech's intranet calendar to any ICalendar compatible service",
   "main": "index.js",
   "scripts": {
-    "build": "npm install",
     "start": "node index.js",
     "test": "echo \"I trust my code\""
   },

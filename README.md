@@ -35,7 +35,7 @@ Your autologin code is not saved in any database or in server's logs. If you sti
 You can host this service on your own server. No configuration is required outside the port to be used. You just have to install nodeJS.
 
 ```bash
-git clone https://github.com/simonmeyerrr/epicalendarV2.git
+git clone https://github.com/Cavonstavant/epicalendarV2.git
 cd epicalendarV2
 npm install
 PORT=8080 node index.js
